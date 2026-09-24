@@ -64,8 +64,9 @@ Once you have installed _pyspi_, you can learn how to apply the package by check
 
 - [Finance: stock price time series](https://time-series-features.gitbook.io/pyspi/usage/walkthrough-tutorials/finance-stock-price-time-series)
 
-
 - [Neuroimaging: fMRI time series](https://time-series-features.gitbook.io/pyspi/usage/walkthrough-tutorials/neuroimaging-fmri-time-series)
+  
+- [Motion tracking](https://time-series-features.gitbook.io/pyspi/installing-and-using-pyspi/usage/walkthrough-tutorials/motion-tracking)
 
 ### Advanced Usage
 For advanced users, we offer several additional guides in the [full documentation](https://time-series-features.gitbook.io/pyspi/usage/advanced-usage) on how you can distribute your _pyspi_ jobs across PBS clusters, as well as how you can construct your own subsets of SPIs. 
